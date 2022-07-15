@@ -131,338 +131,58 @@
     }
 }
 
-.Marksheets-1 {
-    background: url('/Marksheets/marksheets_page-0001.jpg');
+.Marksheets {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-2 {
-    background: url('/Marksheets/marksheets_page-0002.jpg');
+.training {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-3 {
-    background: url('/Marksheets/marksheets_page-0003.jpg');
+.appt {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-4 {
-    background: url('/Marksheets/marksheets_page-0004.jpg');
+.conf {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-5 {
-    background: url('/Marksheets/marksheets_page-0005.jpg');
+.awards {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-6 {
-    background: url('/Marksheets/marksheets_page-0006.jpg');
+.talks {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-7 {
-    background: url('/Marksheets/marksheets_page-0007.jpg');
+.experience {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.Marksheets-8 {
-    background: url('/Marksheets/marksheets_page-0008.jpg');
+.membership {
     background-position: center;
-    background-size: cover;
+    object-fit: contain;
     background-repeat: no-repeat;
-}
-
-.Marksheets-9 {
-    background: url('/Marksheets/marksheets_page-0009.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-10 {
-    background: url('/Marksheets/marksheets_page-0010.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-11 {
-    background: url('/Marksheets/marksheets_page-0011.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-12 {
-    background: url('/Marksheets/marksheets_page-0012.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-13 {
-    background: url('/Marksheets/marksheets_page-0013.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-14 {
-    background: url('/Marksheets/marksheets_page-0014.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-15 {
-    background: url('/Marksheets/marksheets_page-0015.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-16 {
-    background: url('/Marksheets/marksheets_page-0016.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-17 {
-    background: url('/Marksheets/marksheets_page-0017.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.Marksheets-18 {
-    background: url('/Marksheets/marksheets_page-0018.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-1 {
-    background: url('/training/training_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-2 {
-    background: url('/training/training_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-3 {
-    background: url('/training/training_page-0003.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-4 {
-    background: url('/training/training_page-0004.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-5 {
-    background: url('/training/training_page-0005.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-6 {
-    background: url('/training/training_page-0006.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-7 {
-    background: url('/training/training_page-0007.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-8 {
-    background: url('/training/training_page-0008.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-9 {
-    background: url('/training/training_page-0009.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.training-10 {
-    background: url('/training/training_page-0010.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.appt-1 {
-    background: url('/appt/appt_ltr_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.appt-2 {
-    background: url('/appt/appt_ltr_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.appt-3 {
-    background: url('/appt/appt_ltr_page-0003.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.appt-4 {
-    background: url('/appt/appt_ltr_page-0004.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.conf-1 {
-    background: url('/conf/conf_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.conf-2 {
-    background: url('/conf/conf_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.conf-3 {
-    background: url('/conf/conf_page-0003.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.conf-4 {
-    background: url('/conf/conf_page-0004.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.awards-1 {
-    background: url('/awards/awards_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.awards-2 {
-    background: url('/awards/awards_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.awards-3 {
-    background: url('/awards/awards_page-0003.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.awards-4 {
-    background: url('/awards/awards_page-0004.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.talks-1 {
-    background: url('/talks/talks_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.talks-2 {
-    background: url('/talks/talks_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.talks-3 {
-    background: url('/talks/talks_page-0003.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.talks-4 {
-    background: url('/talks/talks_page-0004.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.experience-1 {
-    background: url('/experience/experience_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.experience-2 {
-    background: url('/experience/experience_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.membership-1 {
-    background: url('/membership/membership_page-0001.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.membership-2 {
-    background: url('/membership/membership_page-0002.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    overflow: hidden;
 }
